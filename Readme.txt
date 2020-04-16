@@ -60,14 +60,3 @@ Troubleshoot:
 
 As the net packages is sending an "unprivileged" ping via UDP, it is recommended to have root privelages
 "sudo ./ping cloudflare.com"
-
-
-Thanks for this wonderful opportunity, I have never coded in Go before and have neither work 
-on this type of project. This is just my passion for programming and learning new things which 
-made me to attempt this task. This won't be the best submission, but this is my best attempt to learn 
-2 things in 1 day and successfully implement basic ping package. Even if I don't get selected for interview I would 
-request you to at-least give me feedback on this 
-piece of code, so I can improve myself in future.
-
-I have also hosted the code on my github repo: https://github.com/mohit8935/Simple-Go-Ping
-email: mohitnihalani.in@gmail.com
