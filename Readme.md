@@ -28,11 +28,10 @@ You can download these using `go get $name_of_library$`
 This command will create a binary executable file: Using this cli is very easy:
 
 ### Arguements 
-Please Enter Host Name or Ip Address
 Usage:
-	`ping [-i interval] [-T TTL Limit][--p] host`
+
+	ping [-i interval] [-T TTL Limit][--p] host
 	
-	```
 	example pinging to cloudflare.com:
 	./ping www.cloudflare.com
 
@@ -48,11 +47,10 @@ Usage:
 	Note: Default TTL is set to 50, if IMCP Time Limit Exceeded Message is Received, it will be printed and TTL will be increased by 1 until first Echo Request is received.
 
 	# By default interval is set = 1ms
-	```
 
 
-![Output1]("./images/output.png")
-![Output2]("./images/output2.png")
+![Output1](./images/output.png)
+![Output2](./images/output2.png)
 
 ### Structure of Code:
 Root Directory: "Ping-Cli"
