@@ -52,15 +52,7 @@ Usage:
 ![Output1](images/output1.png)
 ![Output2](images/output2.png)
 
-### Structure of Code:
-Root Directory: "Ping-Cli"
-	Main File: `ping.go:` Consits of `main` package and cli code
-
-	pinger: custome build ping package
-		/pinger.go: This is where all the code for ping exists.
-
-
-##Troubleshoot:
+### Troubleshoot:
 
 As the net packages is sending an "unprivileged" ping via UDP, it is recommended to have root privelages
 "sudo ./ping cloudflare.com"
