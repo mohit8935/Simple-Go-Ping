@@ -49,8 +49,8 @@ Usage:
 	# By default interval is set = 1ms
 
 
-![Output1](./images/output.png)
-![Output2](./images/output2.png)
+![Output1](images/output.png)
+![Output2](images/output2.png)
 
 ### Structure of Code:
 Root Directory: "Ping-Cli"
