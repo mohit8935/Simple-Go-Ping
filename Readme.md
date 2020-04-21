@@ -49,7 +49,7 @@ Usage:
 	# By default interval is set = 1ms
 
 
-![Output1](images/output.png)
+![Output1](images/output1.png)
 ![Output2](images/output2.png)
 
 ### Structure of Code:
