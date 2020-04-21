@@ -66,7 +66,9 @@ Root Directory: "Ping-Cli"
 
 As the net packages is sending an "unprivileged" ping via UDP, it is recommended to have root privelages
 "sudo ./ping cloudflare.com"
+<<<<<<< HEAD:Readme.md
 
 
 
 I have also hosted the code on my github repo: https://github.com/mohit8935/Simple-Go-Ping
+
